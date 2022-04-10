@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HW6</string>
+    <string name="Vhod">Вход</string>
+    <string name="dobro">Добро пожаловать!</string>
+    <string name="Вход">Выполните вход</string>
+    <string name="добро">Добро пожаловать!</string>
+    <string name="reg">или зарегистрируйтесь</string>
+    <string name="Pochta">Введите вашу почту</string>
+    <string name="parol">Parol</string>
+    <string name="paroll">Введите пароль</string>
+    <string name="Voyti">Войти</string>
+</resources>
